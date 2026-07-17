@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<skins name="Volvo 9800" decals="false" createdby="King Nabucodonosor" version="1.0">
+<skins name="VOLVO 9800 - TEST IDS" decals="false" createdby="King Nabucodonosor" version="1.0">
 
-<skin
-id="32"
-name="Volvo 9800"
-title="AU Naranja"
-url="https://imgur.com/53u7BhK.png"/>
+<skin id="26" name="Volvo 9800" title="ID 26" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="27" name="Volvo 9800" title="ID 27" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="28" name="Volvo 9800" title="ID 28" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="29" name="Volvo 9800" title="ID 29" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="30" name="Volvo 9800" title="ID 30" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="31" name="Volvo 9800" title="ID 31" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="32" name="Volvo 9800" title="ID 32" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="33" name="Volvo 9800" title="ID 33" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="34" name="Volvo 9800" title="ID 34" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="35" name="Volvo 9800" title="ID 35" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="36" name="Volvo 9800" title="ID 36" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="37" name="Volvo 9800" title="ID 37" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="38" name="Volvo 9800" title="ID 38" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="39" name="Volvo 9800" title="ID 39" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="40" name="Volvo 9800" title="ID 40" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="41" name="Volvo 9800" title="ID 41" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="42" name="Volvo 9800" title="ID 42" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="43" name="Volvo 9800" title="ID 43" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="44" name="Volvo 9800" title="ID 44" url="https://i.imgur.com/53u7BhK.png"/>
+<skin id="45" name="Volvo 9800" title="ID 45" url="https://i.imgur.com/53u7BhK.png"/>
 
 </skins>
