@@ -1,55 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<skins name="VOLVO 98000 TEST 1-50" decals="false" createdby="King Nabucodonosor" version="1.0">
+<skins name="VOLVO 9800 MÉXICO" decals="false" createdby="King Nabucodonosor" version="1.0">
 
-<skin id="1" name="Volvo 98000" title="ID-1" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="2" name="Volvo 98000" title="ID-2" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="3" name="Volvo 98000" title="ID-3" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="4" name="Volvo 98000" title="ID-4" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="5" name="Volvo 98000" title="ID-5" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="6" name="Volvo 98000" title="ID-6" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="7" name="Volvo 98000" title="ID-7" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="8" name="Volvo 98000" title="ID-8" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="9" name="Volvo 98000" title="ID-9" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="10" name="Volvo 98000" title="ID-10" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="11" name="Volvo 98000" title="ID-11" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="12" name="Volvo 98000" title="ID-12" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="13" name="Volvo 98000" title="ID-13" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="14" name="Volvo 98000" title="ID-14" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="15" name="Volvo 98000" title="ID-15" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="16" name="Volvo 98000" title="ID-16" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="17" name="Volvo 98000" title="ID-17" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="18" name="Volvo 98000" title="ID-18" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="19" name="Volvo 98000" title="ID-19" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="20" name="Volvo 98000" title="ID-20" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="21" name="Volvo 98000" title="ID-21" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="22" name="Volvo 98000" title="ID-22" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="23" name="Volvo 98000" title="ID-23" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="24" name="Volvo 98000" title="ID-24" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="25" name="Volvo 98000" title="ID-25" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="26" name="Volvo 98000" title="ID-26" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="27" name="Volvo 98000" title="ID-27" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="28" name="Volvo 98000" title="ID-28" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="29" name="Volvo 98000" title="ID-29" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="30" name="Volvo 98000" title="ID-30" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="31" name="Volvo 98000" title="ID-31" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="32" name="Volvo 98000" title="ID-32" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="33" name="Volvo 98000" title="ID-33" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="34" name="Volvo 98000" title="ID-34" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="35" name="Volvo 98000" title="ID-35" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="36" name="Volvo 98000" title="ID-36" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="37" name="Volvo 98000" title="ID-37" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="38" name="Volvo 98000" title="ID-38" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="39" name="Volvo 98000" title="ID-39" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="40" name="Volvo 98000" title="ID-40" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="41" name="Volvo 98000" title="ID-41" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="42" name="Volvo 98000" title="ID-42" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="43" name="Volvo 98000" title="ID-43" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="44" name="Volvo 98000" title="ID-44" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="45" name="Volvo 98000" title="ID-45" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="46" name="Volvo 98000" title="ID-46" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="47" name="Volvo 98000" title="ID-47" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="48" name="Volvo 98000" title="ID-48" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="49" name="Volvo 98000" title="ID-49" url="https://i.imgur.com/53u7BhK.png"/>
-<skin id="50" name="Volvo 98000" title="ID-50" url="https://i.imgur.com/53u7BhK.png"/>
+<skin
+id="29"
+name="Vlvo 9800"
+title="AU Naranja"
+url="https://i.imgur.com/53u7BhK.png"/>
 
 </skins>
