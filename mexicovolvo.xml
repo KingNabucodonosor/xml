@@ -1,46 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skins name="MÉXICO VOLVO 9800" decals="false" createdby="King Nabucodonosor" version="1.0">
 
-    <skin
-        id="29"
-        name="Vlvo 9800"
-        title="AU"
-        url="https://i.imgur.com/zzNEm6H.png"/>
+    <!-- ABC -->
+    <skin id="29" name="Vlvo 9800" title="ABC Península Ejecutiva" url="https://i.imgur.com/7HLFowv.png"/>
+    <skin id="29" name="Vlvo 9800" title="ABC Plus Clásico" url="https://i.imgur.com/6YVaRKG.png"/>
+    <skin id="29" name="Vlvo 9800" title="ABC Plus Ejecutivo" url="https://i.imgur.com/NrZrTl6.png"/>
 
-    <skin
-        id="29"
-        name="Vlvo 9800"
-        title="Autonaves Gran Confort"
-        url="https://i.imgur.com/tE3hgav.png"/>
+    <!-- ADO -->
+    <skin id="29" name="Vlvo 9800" title="ADO v1" url="https://i.imgur.com/5GwAFp1.png"/>
+    <skin id="29" name="Vlvo 9800" title="ADO v2" url="https://i.imgur.com/281thHF.png"/>
+    <skin id="29" name="Vlvo 9800" title="ADO v3" url="https://i.imgur.com/QTFEw7Q.png"/>
+    <skin id="29" name="Vlvo 9800" title="ADO GL" url="https://i.imgur.com/Mf4hyqD.png"/>
+    <skin id="29" name="Vlvo 9800" title="ADO Platino" url="https://i.imgur.com/5DPS6jw.png"/>
 
-    <skin
-        id="29"
-        name="Vlvo 9800"
-        title="Autonaves Gran Confort v2"
-        url="https://i.imgur.com/VZafhci.png"/>
+    <!-- Autobuses Unidos -->
+    <skin id="29" name="Vlvo 9800" title="Autobuses Unidos" url="https://i.imgur.com/qlJu4vf.png"/>
 
-    <skin
-        id="29"
-        name="Vlvo 9800"
-        title="Caminante Plus"
-        url="https://i.imgur.com/O5aRvZK.png"/>
+    <!-- Autonaves -->
+    <skin id="29" name="Vlvo 9800" title="Autonaves Gran Confort" url="https://i.imgur.com/MUHuHUf.png"/>
+    <skin id="29" name="Vlvo 9800" title="Autonaves Gran Confort v2" url="https://i.imgur.com/ZtsNBEr.png"/>
 
-    <skin
-        id="29"
-        name="Vlvo 9800"
-        title="ABC Plus Ejecutivo"
-        url="https://i.imgur.com/VrEzQ41.png"/>
+    <!-- Caminante -->
+    <skin id="29" name="Vlvo 9800" title="Caminante Plus" url="https://i.imgur.com/iPx3zKw.png"/>
 
-    <skin
-        id="29"
-        name="Vlvo 9800"
-        title="ABC Plus Clásico"
-        url="https://i.imgur.com/T8XC3vj.png"/>
-
-    <skin
-       id="29"
-       name="Vlvo 9800"
-       title="ABC Península Ejecutiva"
-       url="https://i.imgur.com/28ckZ4S.png"/>
+    <!-- Estrella de Oro -->
+    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Primera" url="https://i.imgur.com/Tv2sxd7.png"/>
 
 </skins>
