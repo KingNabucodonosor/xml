@@ -28,10 +28,12 @@
     <skin id="29" name="Vlvo 9800" title="Cristóbal Colón v2" url="https://i.imgur.com/En1Uy0C.png"/>
 
 
-    <!-- ==================== GRUPO ABC ==================== -->
+    <<!-- ================= ESTRELLA BLANCA ================= -->
+
+    <!-- Península Ejecutiva-->
+    <skin id="29" name="Vlvo 9800" title="Península Ejecutiva" url="https://i.imgur.com/7HLFowv.png"/>
 
     <!-- ABC -->
-    <skin id="29" name="Vlvo 9800" title="ABC Península Ejecutiva" url="https://i.imgur.com/7HLFowv.png"/>
     <skin id="29" name="Vlvo 9800" title="ABC Plus Clásico" url="https://i.imgur.com/6YVaRKG.png"/>
     <skin id="29" name="Vlvo 9800" title="ABC Plus Ejecutivo" url="https://i.imgur.com/NrZrTl6.png"/>
 
