@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skins name="MÉXICO VOLVO 9800" decals="false" createdby="King Nabucodonosor" version="1.0">
 
-    <!-- ABC -->
-    <skin id="29" name="Vlvo 9800" title="ABC Península Ejecutiva" url="https://i.imgur.com/7HLFowv.png"/>
-    <skin id="29" name="Vlvo 9800" title="ABC Plus Clásico" url="https://i.imgur.com/6YVaRKG.png"/>
-    <skin id="29" name="Vlvo 9800" title="ABC Plus Ejecutivo" url="https://i.imgur.com/NrZrTl6.png"/>
+    <!-- ================== MOBILITY ADO ================== -->
 
     <!-- ADO -->
     <skin id="29" name="Vlvo 9800" title="ADO v1" url="https://i.imgur.com/5GwAFp1.png"/>
@@ -13,8 +10,33 @@
     <skin id="29" name="Vlvo 9800" title="ADO GL" url="https://i.imgur.com/Mf4hyqD.png"/>
     <skin id="29" name="Vlvo 9800" title="ADO Platino" url="https://i.imgur.com/5DPS6jw.png"/>
 
+    <!-- JAPI -->
+    <skin id="29" name="Vlvo 9800" title="Japi Azul" url="https://i.imgur.com/MC0OGsf.png"/>
+    <skin id="29" name="Vlvo 9800" title="Japi Verde" url="https://i.imgur.com/MgeCWrg.png"/>
+    <skin id="29" name="Vlvo 9800" title="Japi Amarillo" url="https://i.imgur.com/IDQNOnc.png"/>
+
     <!-- Autobuses Unidos -->
     <skin id="29" name="Vlvo 9800" title="Autobuses Unidos" url="https://i.imgur.com/qlJu4vf.png"/>
+
+    <!-- Estrella de Oro -->
+    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Primera" url="https://i.imgur.com/Tv2sxd7.png"/>
+    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Pluss" url="https://i.imgur.com/Zs67mvE.png"/>
+    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Diamante" url="https://i.imgur.com/94DuCKv.png"/>
+
+    <!-- Cristóbal Colón -->
+    <skin id="29" name="Vlvo 9800" title="Cristóbal Colón" url="https://i.imgur.com/sz4q5uE.png"/>
+    <skin id="29" name="Vlvo 9800" title="Cristóbal Colón v2" url="https://i.imgur.com/En1Uy0C.png"/>
+
+
+    <!-- ==================== GRUPO ABC ==================== -->
+
+    <!-- ABC -->
+    <skin id="29" name="Vlvo 9800" title="ABC Península Ejecutiva" url="https://i.imgur.com/7HLFowv.png"/>
+    <skin id="29" name="Vlvo 9800" title="ABC Plus Clásico" url="https://i.imgur.com/6YVaRKG.png"/>
+    <skin id="29" name="Vlvo 9800" title="ABC Plus Ejecutivo" url="https://i.imgur.com/NrZrTl6.png"/>
+
+
+    <!-- ================== INDEPENDIENTES ================= -->
 
     <!-- Autonaves -->
     <skin id="29" name="Vlvo 9800" title="Autonaves Gran Confort" url="https://i.imgur.com/MUHuHUf.png"/>
@@ -23,14 +45,12 @@
     <!-- Caminante -->
     <skin id="29" name="Vlvo 9800" title="Caminante Plus" url="https://i.imgur.com/iPx3zKw.png"/>
 
-    <!-- Estrella de Oro -->
-    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Primera" url="https://i.imgur.com/Tv2sxd7.png"/>
-    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Pluss" url="https://i.imgur.com/Zs67mvE.png"/>
-    <skin id="29" name="Vlvo 9800" title="Estrella de Oro Diamante" url="https://i.imgur.com/94DuCKv.png"/>
-
     <!-- Texcoco -->
     <skin id="29" name="Vlvo 9800" title="Texcoco" url="https://i.imgur.com/zx3YmAE.png"/>
     <skin id="29" name="Vlvo 9800" title="Texcoco Inter" url="https://i.imgur.com/L25DAuC.png"/>
     <skin id="29" name="Vlvo 9800" title="Texcoco Plus" url="https://i.imgur.com/KxbVZzX.png"/>
+
+    <!-- Roll & Bits -->
+    <skin id="29" name="Vlvo 9800" title="Roll & Bits" url="https://i.imgur.com/tbjM2rZ.png"/>
 
 </skins>
